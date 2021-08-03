@@ -32,7 +32,7 @@ export default class Quiz extends Component {
             }
         },
         correctAnswers: {
-            1: '1',
+            1: '4',
             2: '1',
             3: '2'
         },
