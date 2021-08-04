@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Use this link to view my project https://ankpan18.github.io/quiz/
 
 ## Available Scripts
 
